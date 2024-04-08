@@ -45,7 +45,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leninkill&show_icons=true&theme=tokyonight)
 
- <img src="https://wakatime.com/badge/user/018eafa5-5a77-4438-9967-c3a0409ac889.svg" />
+ <img src="tyan.jpg" />
 
 
 
