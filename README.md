@@ -36,16 +36,16 @@
 
 ### Connect with me:
 
-<img align="left" alt="leninkill | Telegram" width="22px" src="https://cs8.pikabu.ru/post_img/2018/01/15/0/og_og_1515966586292420018.jpg" /> [tg]
+[<img align="left" alt="leninkill | Telegram" width="70px" src="telega.png" />][tg]
 
 <br />
 
 ### :zap: Statistics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Picalfer&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninkill&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Picalfer&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leninkill&show_icons=true&theme=tokyonight)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@landfathich/f932edf3-827e-4caf-b9ee-a7d1b862d36b.png" /></a>
+ <img src="https://wakatime.com/badge/user/018eafa5-5a77-4438-9967-c3a0409ac889.svg" />
 
 
 
