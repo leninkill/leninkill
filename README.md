@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<img align='right' src="https://user-images.githubusercontent.com/120378890/223352441-ead538c8-027a-478f-b71c-94ce3659f41a.gif" width="230">
-   <h1> Hi there 👋, I'm Sasha </h1>
+   <h3> Hi there 👋, I'm Sasha </h3>
 
   
    ![](https://komarev.com/ghpvc/?username=leninkill&color=red)
@@ -13,7 +13,7 @@
 	
 </div>
 
-## I'm an Junior Programmer
+### I'm an Junior Programmer
 - 🖥️ I am programming on C#(Unity 3D), Frontend, Python, Figma
 - 💪 I like to write code
 - 👅 I like pussy licking
