@@ -6,9 +6,9 @@
    ![](https://komarev.com/ghpvc/?username=leninkill&color=red)
   [![wakatime](https://wakatime.com/badge/user/018eafa5-5a77-4438-9967-c3a0409ac889.svg)](https://wakatime.com/@018eafa5-5a77-4438-9967-c3a0409ac889)
    <a href="https://github.com/leninkill?tab=followers">
-   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Picalfer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/Picalfer?tab=repositories&sort=stargazers">
-   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Picalfer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/leninkill?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/leninkill?tab=repositories&sort=stargazers">
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/leninkill?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    
 	
 </div>
