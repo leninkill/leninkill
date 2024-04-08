@@ -3,8 +3,8 @@
    <h1> Hi there 👋, I'm Sasha </h1>
 
   
-   ![](https://komarev.com/ghpvc/?username=Picalfer&color=red)
-   [![wakatime](https://wakatime.com/badge/user/c5c001a6-c6aa-4c08-9288-ab8e69e1e02c.svg)](https://wakatime.com/@c5c001a6-c6aa-4c08-9288-ab8e69e1e02c)
+   ![](https://komarev.com/ghpvc/?username=leninkill&color=red)
+  [![wakatime](https://wakatime.com/badge/user/018eafa5-5a77-4438-9967-c3a0409ac889.svg)](https://wakatime.com/@018eafa5-5a77-4438-9967-c3a0409ac889)
    <a href="https://github.com/leninkill?tab=followers">
    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Picalfer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/Picalfer?tab=repositories&sort=stargazers">
