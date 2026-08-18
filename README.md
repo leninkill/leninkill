@@ -14,11 +14,8 @@
 </div>
 
 ### I'm an Junior Programmer
-- 🖥️ I am programming on C#(Unity 3D), Frontend, Python, Figma
 - 💪 I like to write code
-- 👅 I like pussy licking
 - 🥅 I am constantly learning new things
-- 🎮 I love playing games
 
 <br />
 
@@ -50,5 +47,4 @@
 
 
 
-[vk]: https://vk.com/leninkill
 [tg]: https://t.me/leninkill
