@@ -16,7 +16,6 @@
 ### I'm an Junior Programmer
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
-
 <br />
 
 ### 🧰 Languages and Tools:
@@ -36,11 +35,6 @@
 [<img align="left" alt="leninkill | Telegram" width="70px" src="telega.png" />][tg]
 
 <br />
-
-### :zap: Statistics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninkill&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leninkill&show_icons=true&theme=tokyonight)
 
  <img src="tyan.jpg" />
 
