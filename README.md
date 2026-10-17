@@ -17,6 +17,7 @@
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 <br />
+
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest?cb=20180617092325&path-prefix=ru" />
