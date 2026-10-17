@@ -15,8 +15,7 @@
 
 ### I'm an Junior Programmer
 - 💪 I like to write code
-- 🥅 I am constantly learning new things
-<br />
+- 🥅 I am constantly learning new things<br />
 
 ### 🧰 Languages and Tools:
 
