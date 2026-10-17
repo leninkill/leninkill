@@ -27,18 +27,6 @@
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="SASS" width="30px"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
-<br />
-
-
-### Connect with me:
-
-[<img align="left" alt="leninkill | Telegram" width="70px" src="telega.png" />][tg]
-
-<br />
-
  <img src="tyan.jpg" />
-
-
-
 
 [tg]: https://t.me/leninkill
